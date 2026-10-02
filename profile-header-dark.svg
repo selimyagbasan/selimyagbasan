@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="225" viewBox="0 0 960 225" role="img" aria-labelledby="title desc">
+  <title id="title">Selim Yağbasan</title>
+  <desc id="desc">Notes, tools and experiments. Application security and language model experiments.</desc>
+  <rect width="960" height="225" fill="#0d1117"/>
+  <text x="0" y="30" fill="#919ba6" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">NOTES, TOOLS &amp; EXPERIMENTS</text>
+  <text x="0" y="106" fill="#e6edf3" font-family="Georgia, 'Times New Roman', serif" font-size="58">Selim Yağbasan</text>
+  <text x="0" y="157" fill="#919ba6" font-family="Arial, sans-serif" font-size="23">Application security and language model experiments.</text>
+  <path d="M0 208H960" stroke="#6e7781" stroke-width="2"/>
+</svg>
